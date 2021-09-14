@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bhumit working as Senior Product Manager.
+- 👀 I’m interested in building scalable product to solve user problem
+- 🌱 I’m currently learning to use Python, Data science and product management
+- 💞️ I’m looking to collaborate on Edtech solution or community driven products
+- 📫 How to reach me on Discord
